@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ReactJS, Nodejs, Docker, MongoDB ETC**
 
-- 📫 How to reach me **abdulrehmanjaveds12@gmail.com**
+- 📫 How to reach me **abdulrehmanjaved.netlify.app**
 
 - ⚡ Fun fact **I like Memes**
 
