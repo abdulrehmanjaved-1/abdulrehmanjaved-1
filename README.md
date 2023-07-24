@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ReactJS, Nodejs, Docker, MongoDB ETC**
 
-- 📫 How to reach me <a href="https://abdulrehmanjaved.netlify.app" target="_blank">https://abdulrehmanjaved.com</a>
+- 📫 How to reach me <a href="https://abdulrehmanjaved.netlify.app" target="_blank">https://abdulrehmanjaved.netlify.app</a>
 
 - ⚡ Fun fact **I like Memes**
 
