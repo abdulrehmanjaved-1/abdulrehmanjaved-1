@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ReactJS, Nodejs, NextJS 13 ,Graphql, Docker, Postresql, Prisma, MongoDB ETC**
 
-- 📫 How to reach me <a href="https://abdulrehmanjaved.netlify.app" target="_blank">https://abdulrehmanjaved.netlify.app</a>
+- 📫 How to reach me <a href="https://abdulrehmanjaved.vercel.app" target="_blank">https://abdulrehmanjaved.vercel.app</a>
 
 - ⚡ Fun fact **I like Memes**
 
