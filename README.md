@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/abdulre14356105" target="blank"><img src="https://img.shields.io/twitter/follow/abdulre14356105?logo=twitter&style=for-the-badge" alt="@abdulre14356105" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack and Cloud Computing**
+- 🔭 I’m currently working on **Sanity.io, Redis and Cloud Computing**
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 💬 Ask me about **ReactJS, Nodejs, Docker, MongoDB ETC**
+- 💬 Ask me about **ReactJS, Nodejs, NextJS 13 ,Graphql, Docker, Postresql, Prisma, MongoDB ETC**
 
 - 📫 How to reach me <a href="https://abdulrehmanjaved.netlify.app" target="_blank">https://abdulrehmanjaved.netlify.app</a>
 
