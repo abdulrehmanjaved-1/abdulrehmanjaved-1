@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrehman Javed</h1>
-<h3 align="center">A passionate FullStack developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehmanjaved-1)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 💬 Ask me about **ReactJS, Nodejs, NextJS 13 ,Graphql, Docker, Postresql, Prisma, MongoDB ETC**
+- 💬 Ask me about **ReactJS,NextJS 13 ,Nodejs ,Graphql, Docker, Redis, PostgreSQL ETC**
 
 - 📫 How to reach me <a href="https://abdulrehmanjaved.vercel.app" target="_blank">https://abdulrehmanjaved.vercel.app</a>
 
