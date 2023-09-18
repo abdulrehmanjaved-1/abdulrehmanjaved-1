@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehmanjaved-1)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Abdulrehman Javed</h1>
 <h3 align="center">A passionate FullStack developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1YWQ2emlyZ2FwcXU4Mjl6YWR1dGhqbWZsb3Z5b3l4Nzh3NHR0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
