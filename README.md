@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulrehman Javed</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehmanjaved-1)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehmanjaved-1&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmanjaved-1" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehmanjaved-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/abdulre14356105" target="blank"><img src="https://img.shields.io/twitter/follow/abdulre14356105?logo=twitter&style=for-the-badge" alt="@abdulre14356105" /></a> </p>
 
