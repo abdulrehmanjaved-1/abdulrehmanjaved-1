@@ -22,6 +22,22 @@
 <a href="https://twitter.com/@abdulre14356105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdulre14356105" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulrehman-javed-a20208291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
 
+ 
+![line]
+
+[![Holopin](https://holopin.me/warmachine028)](https://holopin.io/@abdulrehmanjaved1)
+
+![line]
+🍴 some of the <a href="https://github.com/abdulrehmanjaved-1?tab=repositories">repositories!</a></h3>
+<h4 align="center"> Find me on <a href="https://www.linkedin.com/in/abdulrehman-javed-a20208291/">LinkedIn</a>. Feel free to <a href="mailto:abdulrehmanjaveds12@gmail.com">mail</a> me here.</h4>
+
+<!-- Links -->
+
+[linkedin]: https://www.linkedin.com/in/abdulrehman-javed-a20208291/
+[mail]: mailto:abdulrehmanjaveds12@gmail.com
+[portfolio]: https://abdulrehmanjaved.vercel.app/
+
+
 <a href="https://fb.com/abdulrehman javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrehman javed" height="30" width="40" /></a>
 <a href="https://instagram.com/__abdulrehmanjaved__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__abdulrehmanjaved__" height="30" width="40" /></a>
 </p>
