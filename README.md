@@ -23,12 +23,9 @@
 <a href="https://linkedin.com/in/abdulrehman-javed-a20208291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
 
  
-![line]
 
 [![Holopin](https://holopin.me/warmachine028)](https://holopin.io/@abdulrehmanjaved1)
 
-![line]
-🍴 some of the <a href="https://github.com/abdulrehmanjaved-1?tab=repositories">repositories!</a></h3>
 <h4 align="center"> Find me on <a href="https://www.linkedin.com/in/abdulrehman-javed-a20208291/">LinkedIn</a>. Feel free to <a href="mailto:abdulrehmanjaveds12@gmail.com">mail</a> me here.</h4>
 
 <!-- Links -->
