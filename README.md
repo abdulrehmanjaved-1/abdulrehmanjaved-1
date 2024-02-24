@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 💬 Ask me about **ReactJS,NextJS 13 ,Nodejs ,Graphql, Docker, Redis, PostgreSQL ETC**
+- 💬 Ask me about **ReactJS ,NextJS ,Nodejs ,Graphql, Redis, PostgreSQL ,Docker ,Kubernetes ETC**
 
 - 📫 How to reach me <a href="https://abdulrehmanjaved.vercel.app" target="_blank">https://abdulrehmanjaved.vercel.app</a>
 
