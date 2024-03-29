@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJS ,NextJS ,Nodejs ,Graphql, Redis, PostgreSQL ,Docker ,Kubernetes ETC**
 
-- 📫 How to reach me <a href="https://abdulrehmanjaved.vercel.app" target="_blank">https://abdulrehmanjaved.vercel.app</a>
+- 📫 How to reach me <a href="https://abdulrehmanjaved.engineer" target="_blank">https://abdulrehmanjaved.engineer</a>
 
 - ⚡ Fun fact **I like Memes**
 
